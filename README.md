@@ -1,1 +1,1 @@
-# caluclator
+# calcuclator
